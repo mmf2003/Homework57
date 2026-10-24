@@ -231,3 +231,7 @@ test("Server continues working after invalid requests", async () => {
     assert.equal(response.status, 200);
     assert.match(html, /Welcome to the Home Page/);
 });
+
+// ========================================
+// #7. INTERNAL SERVER ERROR
+// ========================================
