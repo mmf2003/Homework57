@@ -1,0 +1,22 @@
+{
+    "name": "homework57",
+    "version": "1.0.0",
+    "description": "Node.js HTTP Server Homework",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "test": "node --test test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mmf2003/Homework57.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mmf2003/Homework57/issues"
+    },
+    "homepage": "https://github.com/mmf2003/Homework57#readme"
+}
